@@ -9,3 +9,5 @@ MétodoA-2()
 MétodoA-2()
 MétodoA-2()
 MétodoA-2()
+
+TESTE
